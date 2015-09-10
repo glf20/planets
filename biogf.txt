@@ -1,3 +1,4 @@
 Graham is a molecular virologist at The Pirbright Institute outside Guildford.
 I work with FMDV and outbreak tracing.
-I also work with next geenration sequencing
+I also work with next geenration sequencing.
+I also do bioinformatics on sequence data.
